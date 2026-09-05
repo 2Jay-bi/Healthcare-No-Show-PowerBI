@@ -1,2 +1,7 @@
-# Healthcare-No-Show-PowerBI
-Interactive Power BI healthcare dashboard for analyzing and predicting patient appointment no-shows
+## Dashboard Overview
+
+![Patient No-Show Dashboard](images/dashboard-overview.png)
+
+## Facility Tooltip
+
+![Facility Monthly No-Show Trend](images/facility-tooltip.png)
