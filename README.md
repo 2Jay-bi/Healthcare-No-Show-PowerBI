@@ -1,7 +1,7 @@
 ## Dashboard Overview
 
-![Patient No-Show Dashboard](images/dashboard-overview.png)
+![Patient No-Show Dashboard](images/Healthcaredashboard_overview.png)
 
 ## Facility Tooltip
 
-![Facility Monthly No-Show Trend](images/facility-tooltip.png)
+![Facility Monthly No-Show Trend](images/Facility-Tooltyp.png)
