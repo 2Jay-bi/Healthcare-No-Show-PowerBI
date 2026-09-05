@@ -93,5 +93,5 @@ This project uses a custom synthetic healthcare dataset inspired by publicly ava
 
 **Vestine Nimenya**
 
-* [LinkedIn](https://www.linkedin.com/in/vestine-nimenya-17188b267/))
-* [GitHub](https://github.com/2Jay-bi))
+* [LinkedIn](https://www.linkedin.com/in/vestine-nimenya-17188b267/)
+* [GitHub](https://github.com/2Jay-bi)
