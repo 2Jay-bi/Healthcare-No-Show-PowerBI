@@ -1,4 +1,6 @@
 # Patient No-Show Risk & Healthcare Operations Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYmFhYzIwNzctYWRkMy00NzY3LWE4ZjktMDg4MjJlNjMyMTUyIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9
+
 
 ## Project Overview
 
