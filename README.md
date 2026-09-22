@@ -8,7 +8,7 @@ This project uses Power BI and predictive analytics to examine patient appointme
 
 ## Dashboard Overview
 
-![Healthcare Dashboard Overview](images/Healthcare_DashboardOverview.png)
+![Healthcare Dashboard Overview](images/Healthcare_Noshow_Operations Analysis.png)
 
 ## Business Problem
 
