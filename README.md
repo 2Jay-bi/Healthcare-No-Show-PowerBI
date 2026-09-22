@@ -55,32 +55,6 @@ Identify the appointments, facilities, and time periods that should be prioritiz
 * Report-page tooltips
 * Predictive risk analysis
 
-## Facility Tooltip
-
-![Facility Monthly No-Show Tooltip](images/Facility%20Tooltyp.png)
-
-The report-page tooltip displays appointment volume, total no-shows, no-show rate, and the monthly no-show trend for the selected facility.
-
-## Key Insights
-
-### Case 1: No-Show Trend
-
-* **Positive:** The no-show rate decreased from 8.74% in 2024 to 7.16% in 2025.
-* **Negative:** Q3 2024 had the highest complete-quarter no-show rate at 9.37%.
-
-### Case 2: Facility Performance
-
-* **Positive:** Community Health Center 25 achieved a low 5.38% no-show rate.
-* **Negative:** Community Health Center 11 recorded a high 10.73% no-show rate.
-
-## Recommendations
-
-* Continue the reminder and patient-support practices associated with the 2025 improvement.
-* Strengthen appointment confirmation and transportation support before high-risk periods.
-* Study and replicate successful practices from Community Health Center 25.
-* Prioritize Community Health Center 11 for targeted outreach and rapid rescheduling.
-* Improve the prediction model by adding prior no-show history, lead time, reminder response, and rescheduling history.
-
 ## Dataset
 
 This project uses a custom synthetic healthcare dataset inspired by publicly available information from Synthea, CMS, and CDC. It contains no real patient-identifying information and is intended for educational and portfolio purposes.
