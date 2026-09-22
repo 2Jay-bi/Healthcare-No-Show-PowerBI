@@ -1,11 +1,10 @@
+# Healthcare Appointment and No-Show Operations Dashboard
 
+![Healthcare Appointment and No-Show Operations Dashboard](Healthcare_Noshow_Operations%20Analysis.png)
 
 ## Project Overview
 
 This project uses Power BI to examine patient appointment no-shows.The dashboard supports quarter-over-quarter monitoring of appointment volume, attendance, no-shows, no-show rate, and average wait time. Monthly trends reveal fluctuations in demand and missed appointments, while facility comparisons help identify locations that combine high appointment volume with elevated no-show rates. Visit-mode distribution and the historical no-show breakdown provide additional context for understanding how no-shows vary by visit type, diagnosis, payer, facility, transportation barriers, and food insecurity.
-## Dashboard Overview
-
-![Healthcare_Noshow_Operations Analysis](images/Healthcare_Noshow_Operations Analysis.png)
 
 ## Business Problem
 
