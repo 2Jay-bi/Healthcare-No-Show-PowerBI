@@ -1,7 +1,5 @@
 # Healthcare Appointment and No-Show Operations Dashboard
 
-# Healthcare Appointment and No-Show Operations Dashboard
-
 ![Healthcare Appointment and No-Show Operations Dashboard](images/Healthcare%20Appointments%20and%20No%20show%20Operations%20Dashboard.png)
 
 ## Project Overview
