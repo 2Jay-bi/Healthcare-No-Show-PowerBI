@@ -1,6 +1,6 @@
 # Healthcare Appointment and No-Show Operations Dashboard
 
-![Healthcare Appointment and No-Show Operations Dashboard](Healthcare_Noshow_Operations%20Analysis.png)
+![Healthcare Appointments and No show Operations Dashboard](Healthcare Appointments and No show Operations Dashboard.png)
 
 ## Business Questions
 
